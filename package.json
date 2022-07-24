@@ -1,0 +1,24 @@
+{
+  "name": "hoatdongxaydung",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxdquangngai/hoatdongxaydung.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sxdquangngai/hoatdongxaydung/issues"
+  },
+  "homepage": "https://github.com/sxdquangngai/hoatdongxaydung#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4"
+  }
+}

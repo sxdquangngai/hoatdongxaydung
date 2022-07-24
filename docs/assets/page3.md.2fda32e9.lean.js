@@ -1,0 +1,1 @@
+import{l as a,f as n,G as e}from"./framework.5c8a4622.js";const s='{"title":"Page 3","description":"","frontmatter":{},"relativePath":"page3.md","lastUpdated":1610136954000}',t={},p=e('',2);t.render=function(e,s,t,o,r,c){return a(),n("div",null,[p])};export default t;export{s as __pageData};
